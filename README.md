@@ -1,1 +1,1 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Octoober)](https://github.com/Octoober/test)
+[![Harlok's WakaTime stats](github-readme-stats-six-chi-99.vercel.app/api/wakatime?username=Octoober)](https://github.com/Octoober/test)
