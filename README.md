@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octoober)](https://github.com/Octoober/test)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Octoober)](https://github.com/anuraghazra/github-readme-stats)
